@@ -2,7 +2,7 @@
 Edited QBCore progressbar design 
 
 # Preview:
-![image](https://user-images.githubusercontent.com/89866234/170887306-d113d038-7901-4d2d-bebf-06a943af87f8.png)
+![image](https://user-images.githubusercontent.com/89866234/171045540-85a5a541-8488-4588-a031-d4e50d1571ab.png)
 
 
 # Original script:
